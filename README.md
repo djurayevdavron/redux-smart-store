@@ -66,7 +66,7 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 ```bash
 npm install
 npm run dev
-````
+```
 
 ---
 
@@ -75,6 +75,4 @@ npm run dev
 # Author | Muallif
 
 ## DAVRON JURAYEV
-
-```
-```
+````
