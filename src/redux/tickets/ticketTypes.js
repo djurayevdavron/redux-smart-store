@@ -1,0 +1,2 @@
+export const BUY_ONE_TICKET = "BUY_ONE_TICKET";
+export const BUY_THREE_TICKETS = "BUY_THREE_TICKETS";
