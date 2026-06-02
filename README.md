@@ -1,5 +1,5 @@
 ````md
-# Smart Savdo Tizimi | Smart Store System
+# Smart Savdo Tizimi
 
 Modern smart store system built with React, Redux and Tailwind CSS.
 
@@ -7,7 +7,11 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
 ---
 
+---
+
 # Features | Imkoniyatlar
+
+---
 
 ## Redux Management | Redux boshqaruvi
 
@@ -15,6 +19,8 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 - combineReducers ishlatilgan | combineReducers implemented
 - useSelector ishlatilgan | useSelector implemented
 - useDispatch ishlatilgan | useDispatch implemented
+
+---
 
 ---
 
@@ -27,6 +33,8 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
 ---
 
+---
+
 ## Notification System | Xabarnoma tizimi
 
 - Alert xabarlari qo'shilgan | Alert messages added
@@ -35,7 +43,11 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
 ---
 
+---
+
 # Technologies Used | Ishlatilgan texnologiyalar
+
+---
 
 ## Frontend
 
@@ -47,12 +59,16 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
 ---
 
+---
+
 # Installation | O'rnatish
 
 ```bash
 npm install
 npm run dev
 ````
+
+---
 
 ---
 
