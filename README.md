@@ -1,25 +1,9 @@
 ````md
 # Smart Savdo Tizimi | Smart Store System
 
-## Loyiha haqida | About Project
+React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
-Ushbu loyiha Redux yordamida yaratilgan smart savdo tizimi hisoblanadi.
-
-This project is a smart store system created using Redux.
-
-Loyihada:
-- Kino chiptalari
-- Telefon do'koni
-- Noutbuk do'koni
-
-Redux state management orqali boshqariladi.
-
-The project manages:
-- Movie tickets
-- Phone store
-- Laptop store
-
-using Redux state management.
+Modern smart store system built with React, Redux and Tailwind CSS.
 
 ---
 
@@ -35,43 +19,33 @@ using Redux state management.
 
 # Asosiy imkoniyatlar | Main Features
 
-- Redux store ishlatilgan  
-- Redux store implemented  
+## Redux | Redux
 
-- combineReducers ishlatilgan  
-- combineReducers implemented  
+- Redux store ishlatilgan | Redux store implemented
+- combineReducers ishlatilgan | combineReducers implemented
+- useSelector ishlatilgan | useSelector implemented
+- useDispatch ishlatilgan | useDispatch implemented
 
-- useSelector ishlatilgan  
-- useSelector implemented  
+---
 
-- useDispatch ishlatilgan  
-- useDispatch implemented  
+## Interfeys | Interface
 
-- Til almashtirish tizimi mavjud  
-- Language switch system added  
+- Til almashtirish tizimi mavjud | Language switch system added
+- Tailwind CSS ishlatilgan | Tailwind CSS used
+- Zamonaviy UI dizayn yaratilgan | Modern UI design created
+- Responsive dizayn mavjud | Responsive design available
 
-- Tailwind CSS ishlatilgan  
-- Tailwind CSS used  
+---
 
-- Zamonaviy UI dizayn yaratilgan  
-- Modern UI design created  
+## Xabarnomalar | Notifications
 
-- Alert xabarlari qo'shilgan  
-- Alert messages added  
-
-- Mahsulotlar soni manfiyga tushmaydi  
-- Product quantity never becomes negative  
-
-- Oxirgi mahsulot haqida xabar chiqadi  
-- Last product notification available  
+- Alert xabarlari qo'shilgan | Alert messages added
+- Mahsulotlar soni manfiyga tushmaydi | Product quantity never becomes negative
+- Oxirgi mahsulot haqida xabar chiqadi | Last product notification available
 
 ---
 
 # O'rnatish | Installation
-
-Loyihani ishga tushirish uchun:
-
-To run the project:
 
 ```bash
 npm install
