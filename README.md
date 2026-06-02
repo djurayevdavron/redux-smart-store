@@ -1,17 +1,13 @@
 ````md
 # Smart Savdo Tizimi
 
-Modern smart store system built with React, Redux and Tailwind CSS.
+Modern smart store system built with React.js, Redux and Tailwind CSS.
 
-React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
-
----
+React.js, Redux va Tailwind CSS yordamida qurilgan zamonaviy Smart Savdo Tizimi.
 
 ---
 
 # Features | Imkoniyatlar
-
----
 
 ## Redux Management | Redux boshqaruvi
 
@@ -22,42 +18,48 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 
 ---
 
+## Ticket System | Chipta tizimi
+
+- Buy 1 Ticket | 1 ta chipta sotib olish
+- Buy 3 Tickets | 3 ta chipta sotib olish
+- Available Tickets System | Mavjud chiptalar tizimi
+- Ticket quantity control | Chipta sonini boshqarish
+
+---
+
+## Store Management | Do'kon boshqaruvi
+
+- Phone Store | Telefon do'koni
+- Laptop Store | Noutbuk do'koni
+- Product quantity control | Mahsulot sonini boshqarish
+- Last product notification | Oxirgi mahsulot xabari
+
 ---
 
 ## Interface System | Interfeys tizimi
 
-- Til almashtirish tizimi mavjud | Language switch system added
-- Tailwind CSS ishlatilgan | Tailwind CSS used
-- Zamonaviy UI dizayn yaratilgan | Modern UI design created
-- Responsive dizayn mavjud | Responsive design available
-
----
-
----
-
-## Notification System | Xabarnoma tizimi
-
-- Alert xabarlari qo'shilgan | Alert messages added
-- Mahsulotlar soni manfiyga tushmaydi | Product quantity never becomes negative
-- Oxirgi mahsulot haqida xabar chiqadi | Last product notification available
-
----
+- Language Switch System | Til almashtirish tizimi
+- Modern UI Design | Zamonaviy UI dizayn
+- Responsive Design | Responsive dizayn
+- Tailwind CSS Styling | Tailwind CSS stillari
 
 ---
 
 # Technologies Used | Ishlatilgan texnologiyalar
 
----
-
 ## Frontend
 
-- React JS
+- React.js
 - Redux
 - React Redux
 - Tailwind CSS
-- Vite
 
----
+## Development Tools
+
+- Vite
+- VS Code
+- Git
+- GitHub
 
 ---
 
@@ -66,13 +68,13 @@ React, Redux va Tailwind CSS yordamida qurilgan zamonaviy smart savdo tizimi.
 ```bash
 npm install
 npm run dev
-```
-
----
+````
 
 ---
 
 # Author | Muallif
 
 ## DAVRON JURAYEV
-````
+
+```
+```
