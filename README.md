@@ -1,4 +1,4 @@
-````md
+
 # Smart Savdo Tizimi
 
 Modern smart store system built with React.js, Redux and Tailwind CSS.
